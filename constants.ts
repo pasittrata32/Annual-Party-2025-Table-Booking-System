@@ -1,6 +1,6 @@
 import { Translations } from './types';
 
-export const BOOKING_DEADLINE = new Date('2025-12-15T23:59:59');
+export const BOOKING_DEADLINE = new Date('2025-12-19T23:59:59');
 
 export const SEAT_PRICE = 800;
 export const SEATS_PER_TABLE = 8;
